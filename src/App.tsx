@@ -72,7 +72,7 @@ const RulesSection = () => (
   <div id="rules" className="card fade-in">
     <h3>參賽資格</h3>
     <p style={{ marginTop: "30px" }}>
-      1. 參與對象：中華民國境內大專校院在學學生（大學及碩、博士生）
+      1. 參與對象：大專校院在學學生（大學及碩、博士生）
     </p>
     <p>2. 年齡限制：需滿 18 歲以上</p>
     <p>3. 組隊方式：每隊 2–5 人，可跨校、跨系組隊</p>
